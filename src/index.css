@@ -16,6 +16,7 @@
 
 body {
     font-family: "Karla", sans-serif;
+    background-color: var(--background-main);
 }
 
 h1,h2,h3,h4 {
